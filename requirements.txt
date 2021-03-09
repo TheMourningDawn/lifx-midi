@@ -1,1 +1,2 @@
 lifxlan==1.2.5
+rtmidi==2.3.4
